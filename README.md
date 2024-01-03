@@ -1,13 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome&fontSize=90&fontColor=d6ace6)
-
+#### 😄반갑습니다 백엔드 개발에 관심을 갖고 공부하는 학생입니다
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbwogur121&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 📩E-mail📩 : fbwogur121@kau.kr</center>
 #### 🎯Blog🎯 : https://velog.io/@fbwogur121
-
-#### 😄반갑습니다 백엔드 개발에 관심을 갖고 공부하는 학생입니다
-
 #### ⚡ Framework
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
