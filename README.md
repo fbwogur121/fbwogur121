@@ -44,13 +44,13 @@
 </p>
 
 <br>
+<br>
 <p align="center">
   <a href="https://github.com/fbwogur121/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact" alt="Top Langs">
   </a>
 </p>
 
-<br>
 <h3 align="center">😈BaekJoon😈</h3>
 <div align="center">
 
