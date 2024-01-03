@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyeok&theme=transparent&show_icons=true)
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
