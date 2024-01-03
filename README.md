@@ -34,9 +34,12 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 </p>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact)](https://github.com/fbwogur121/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://github.com/fbwogur121/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact" alt="Top Langs">
+  </a>
+</p>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact)](https://github.com/fbwogur121/github-readme-stats)
