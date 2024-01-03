@@ -75,4 +75,4 @@
 </p>
 <br>
 <h3 align="center">🏆Activities🏆</h3>
-<h5 align="center">소프트웨어학과 학생회(19.03.01 ~ 20.08.31)<br>dd</h5>
+<h5 align="center">소프트웨어학과 학생회(19.03.01 ~ 20.08.31)<br>SEED 운영진(20.02.01 ~ 20.08.31)<br>UMC 4기 Node.js 파트 챌린저(23.02.01 ~ 23.08.31)<br>UMC 5기 Spring Boot 파트 챌린저(23.09.01 ~ )<br>UMC 5기 운영진(23.09.01 ~ )<br></h5>
