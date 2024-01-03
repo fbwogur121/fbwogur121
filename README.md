@@ -76,9 +76,9 @@
 </p>
 <br>
 <h3 align="center">📚Activities📚</h3>
-<h5 align="center">소프트웨어학과 학생회(19.03.01 ~ 20.08.31)<br>SEED 운영진(20.02.01 ~ 20.08.31)<br>컴공선배 RisingCamp 8기(2022.07.06 ~ 22.09.09)<br>UMC 4기 Node.js 파트 챌린저(23.02.01 ~ 23.08.31)<br>UMC 5기 Spring Boot 파트 챌린저(23.09.01 ~ 24.02.29)<br>연합동아리 UMC 5기 운영진(23.09.01 ~ 24.02.29)<br>TmaxSoft 인턴(23.12.18 ~ 24.02.16)</h5>
+<h5 align="center">소프트웨어학과 학생회 (19.03.01 ~ 20.08.31)<br>SEED 운영진 (20.02.01 ~ 20.08.31)<br>컴공선배 RisingCamp 8기 (2022.07.06 ~ 22.09.09)<br>UMC 4기 Node.js 파트 챌린저 (23.02.01 ~ 23.08.31)<br>UMC 5기 Spring Boot 파트 챌린저 (23.09.01 ~ 24.02.29)<br>연합동아리 UMC 5기 운영진 (23.09.01 ~ 24.02.29)<br>TmaxSoft 인턴 (23.12.18 ~ 24.02.16)</h5>
 
 
 <br>
 <h3 align="center">🏆Awards🏆</h3>
-<h5 align="center">2023 DemoDay 대상 (23.08.24)<br>2023 NE(o)DINARY DemoDay 대상 (23.09.08 ~ 09)<br>창업아이디어 경진대회 최우수상(23.12.01)</h5>
+<h5 align="center">2023 DemoDay 대상 (23.08.24)<br>2023 NE(o)DINARY DemoDay 대상 (23.09.08 ~ 09)<br>창업아이디어 경진대회 최우수상 (23.12.01)</h5>
