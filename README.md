@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome&fontSize=90&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome&fontSize=90&textBg=true)
 
 <img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white"/>
 
