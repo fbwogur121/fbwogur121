@@ -1,8 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome!&fontSize=90&fontColor=d6ace6)
 
 </div>
