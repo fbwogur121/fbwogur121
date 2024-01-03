@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome&fontSize=90&fontColor=d6ace6)
 #### 😄반갑습니다 백엔드 개발에 관심을 갖고 공부하는 학생입니다!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbwogur121&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
 #### 📩E-mail📩 : fbwogur121@kau.kr</center>
 #### 🎯Blog🎯 : https://velog.io/@fbwogur121
