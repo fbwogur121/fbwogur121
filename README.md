@@ -5,15 +5,14 @@
   <a href="[https://hits.seeyoufarm.com](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome&fontSize=90&fontColor=d6ace6)">
 </p>
 
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=views&for-the-badge=false"/></a>
-</p>
-
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@fbwogur121"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@fbwogur121"/></a>&nbsp
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=ys07009222@gmail.com"/></a>
+</p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=views&for-the-badge=false"/></a>
 </p>
 <br>
 
