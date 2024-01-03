@@ -74,4 +74,5 @@
 </a>
 </p>
 
-<h3 align="center">⚒🏆Activities🏆</h3>
+<h2 align="center">🏆Activities🏆</h2>
+<h3 align="center">소프트웨어학과 학생회(19.03.01 ~ 20.08.31)</h3>
