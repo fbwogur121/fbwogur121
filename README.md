@@ -73,3 +73,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fbwogur121&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 </p>
+
+<h3 align="center">⚒🏆Activities🏆</h3>
