@@ -19,7 +19,7 @@
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-<h3 align="center">✨Platforms & Languages✨</h3>
+<h4 align="center">✨Platforms & Languages✨</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
@@ -36,8 +36,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>&nbsp
 </p>
-<br>
-<h3 align="center">⚒️Tools⚒️</h3>
+<h4 align="center">⚒️Tools⚒️</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
