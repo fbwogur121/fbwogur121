@@ -39,9 +39,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact" alt="Top Langs">
   </a>
 </p>
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fbwogur121)](https://solved.ac/fbwogur121)<br/>
 
+</div>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
