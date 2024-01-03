@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> 
 
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyeok&theme=transparent&show_icons=true)
 <!--
 **fbwogur121/fbwogur121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
