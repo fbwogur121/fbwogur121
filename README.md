@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>&nbsp<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyeok&theme=transparent&show_icons=true)
