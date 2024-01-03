@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact)](https://github.com/fbwogur121/github-readme-stats)
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
