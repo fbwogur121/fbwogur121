@@ -40,6 +40,9 @@
   </a>
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fbwogur121)](https://solved.ac/fbwogur121)<br/>
+
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
   
