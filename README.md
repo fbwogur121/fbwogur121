@@ -42,15 +42,15 @@
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
-
-<br>
-<br>
 <p align="center">
   <a href="https://github.com/fbwogur121/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact" alt="Top Langs">
   </a>
 </p>
 
+
+<br>
+<br>
 <h3 align="center">😈BaekJoon😈</h3>
 <div align="center">
 
