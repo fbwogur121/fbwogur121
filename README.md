@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome!&fontSize=90&fontColor=d6ace6)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&exclude_repo=fbwogur121.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
 <p align="center">
   <a href="[https://hits.seeyoufarm.com](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome&fontSize=90&fontColor=d6ace6)">
 </p>
@@ -52,6 +45,15 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fbwogur121)](https://solved.ac/fbwogur121)<br/>
 
 </div>
+
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&exclude_repo=fbwogur121.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=fbwogur121&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
