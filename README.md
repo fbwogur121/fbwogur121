@@ -73,6 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fbwogur121&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 </p>
-
+<br>
 <h3 align="center">🏆Activities🏆</h3>
-<h5 align="center">소프트웨어학과 학생회(19.03.01 ~ 20.08.31)</h5>
+<h5 align="center">소프트웨어학과 학생회(19.03.01 ~ 20.08.31)<br>dd</h5>
