@@ -46,14 +46,14 @@
 
 </div>
 
-
+<p align="center">
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&exclude_repo=fbwogur121.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=fbwogur121&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-
+</p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
