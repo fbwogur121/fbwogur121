@@ -58,7 +58,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fbwogur121)](https://solved.ac/fbwogur121)<br/>
 
 </div>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
+</p>
 <br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
