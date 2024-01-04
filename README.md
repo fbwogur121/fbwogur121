@@ -85,4 +85,4 @@
 
 <br>
 <h3 align="center">🏆Awards🏆</h3>
-<h5 align="center">2023 DemoDay 대상 (23.08.24)<br>2023 NE(o)DINARY DemoDay 대상 (23.09.08 ~ 09)<br>항공대학교 창업 경진대회 최우수상 (23.12.01)</h5>
+<h5 align="center">2023 DemoDay 대상 (23.08.24)<br>2023 NE(o)DINARY DemoDay 대상 (23.09.08 ~ 09)<br>항공대학교 창업 경진대회 최우수상 (23.12.11)</h5>
