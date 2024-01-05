@@ -48,12 +48,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp
 </p>
-<p align="center">
-  <a href="https://github.com/fbwogur121/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbwogur121&layout=compact" alt="Top Langs">
-  </a>
-</p>
-
 
 <br>
 <br>
