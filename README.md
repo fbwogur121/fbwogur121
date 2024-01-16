@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
