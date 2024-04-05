@@ -22,7 +22,6 @@
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-## 📚 Tech Stack 📚
 <h4 align="center">✨Platforms & Languages✨</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
@@ -82,4 +81,4 @@
 
 <br>
 <h3 align="center">🏆Awards🏆</h3>
-<h5 align="center">2023 UMC DemoDay 대상 (23.08.24)<br>2023 NE(o)DINARY DemoDay 대상 (23.09.08 ~ 09.09)<br>홍익대학교 세종UNION 청년창업캠프 최우수상(2023.09.19)<br>항공대학교 창업 경진대회 최우수상 (23.12.11)</h5>
+<h5 align="center">2023 UMC DemoDay 대상 [23.08.24]<br>2023 NE(o)DINARY DemoDay 대상 [23.09.08 ~ 09.09]<br>홍익대학교 세종UNION 청년창업캠프 최우수상[2023.09.19]<br>항공대학교 창업 아이디어 경진대회 최우수상 [23.12.11]</h5>
