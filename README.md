@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=welcome🙋‍♂️💻⌨️&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=welcome🙋‍♂️💻⌨️&fontAlign=50)
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=JaeHyeok_Ryu&fontSize=90&fontColor=d6ace6)
 
 </div>
@@ -81,4 +81,4 @@
 
 <br>
 <h3 align="center">🏆Awards🏆</h3>
-<h5 align="center">2023 UMC DemoDay 대상 [23.08.24]<br>2023 NE(o)DINARY DemoDay 대상 [23.09.08 ~ 09.09]<br>홍익대학교 세종UNION 청년창업캠프 최우수상[2023.09.19]<br>항공대학교 창업 아이디어 경진대회 최우수상 [23.12.11]</h5>
+<h5 align="center">2023 UMC DemoDay 대상 [23.08.24]<br>2023 NE(o)DINARY DemoDay 대상 [23.09.08 ~ 09.09]<br>홍익대학교 세종UNION 청년창업캠프 최우수상 [2023.09.19]<br>항공대학교 창업 아이디어 경진대회 최우수상 [23.12.11]</h5>
