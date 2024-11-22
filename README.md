@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter notebook&logoColor=white"/></a>&nbsp
 </p>
 
+<!-- 
 <br>
 <br>
 <h3 align="center">😈BaekJoon😈</h3>
@@ -62,7 +63,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
 </p>
-<br>
+<br> -->
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
