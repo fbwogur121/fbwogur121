@@ -49,8 +49,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Docker-2E9AFE?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter notebook&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-- AngularJS
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/></a>&nbsp
 </p>
 
 <!-- 
