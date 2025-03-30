@@ -87,3 +87,7 @@
 <br>
 <h3 align="center">🏆Awards🏆</h3>
 <h5 align="center">2023 UMC DemoDay 대상 [23.08.24]<br>2023 NE(o)DINARY DemoDay 대상 [23.09.08 ~ 09.09]<br>홍익대학교 세종UNION 청년창업캠프 최우수상 [2023.09.19]<br>항공대학교 창업 아이디어 경진대회 최우수상 [23.12.11]</h5>
+
+<br>
+<h3 align="center">🪪Qualification🪪</h3>
+<h5 align="center">SQLD(sql 개발자) 취득 [2025.04.04]</h5>
