@@ -81,13 +81,13 @@
 <h5 align="center">소프트웨어학과 학생회 [19.03.01 ~ 20.08.31] <br>교내 기술 개발동아리 SEED 부원 [19.03.01 ~ 20.02.28]<br>교내 기술 개발동아리 SEED 운영진 [20.03.01 ~ 20.08.31]<br>컴공선배 RisingCamp 8기 [2022.07.08 ~ 22.09.09]<br>UMC 4기 Node.js 파트 챌린저 우수수료 [23.02.01 ~ 23.08.31] <br>UMC 5기 Spring Boot 파트 챌린저 우수수료 [23.09.01 ~ 24.02.29]<br>연합동아리 UMC 5기 Server 파트 운영진 [23.09.01 ~ 24.02.29] <br>교내 재학생멘토 활동 [24.12.16 ~ 25.07.31] <br>알고리즘 학회 Koala 17기 심화반 [24.12.30 ~ 25.02.23]</h5>
 
 <br>
+<h3 align="center">🪪Qualification🪪</h3>
+<h5 align="center">SQLD(SQL Developer) 취득 [2025.04.04]</h5>
+
+<br>
 <h3 align="center">👨‍💻Experience👨‍💻</h3>
 <h5 align="center">TmaxSoft 플랫폼엔지니어링파트 단기인턴 [23.12.18 ~ 24.02.16]<br>TmaxSoft 플랫폼엔지니어링파트 장기인턴 [24.03.04 ~ 24.06.21]</h5>
 
 <br>
 <h3 align="center">🏆Awards🏆</h3>
 <h5 align="center">2023 UMC DemoDay 대상 [23.08.24]<br>2023 NE(o)DINARY DemoDay 대상 [23.09.08 ~ 09.09]<br>홍익대학교 세종UNION 청년창업캠프 최우수상 [2023.09.19]<br>항공대학교 창업 아이디어 경진대회 최우수상 [23.12.11]</h5>
-
-<br>
-<h3 align="center">🪪Qualification🪪</h3>
-<h5 align="center">SQLD(sql 개발자) 취득 [2025.04.04]</h5>
